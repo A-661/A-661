@@ -21,6 +21,8 @@
 
 <p align="center"> <img src="https://img.shields.io/badge/DirectX%2012-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" /> </p>
 
+---
+
 ## 📌 Featured Projects
 
 ### [PEPEngine2](https://github.com/A-661/PEPEngine2)
