@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>Game Engine Developer / Render Programmer</b><br/>
-  <i>ITMO Gamedev student</i>
 </p>
 
 ---
